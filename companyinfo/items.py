@@ -20,3 +20,4 @@ class CompanyinfoItem(scrapy.Item):
     get = scrapy.Field()
     date = scrapy.Field()
     content = scrapy.Field()
+    知识产权 = scrapy.Field()
